@@ -1,0 +1,14 @@
+table,td,th{
+    border: 1px solid red;
+    border-collapse: collapse;
+    padding: 20px;
+}
+ th:nth-child(even), td:nth-child(odd){
+    background-color: yellow;
+}
+/* th:nth-child(odd),td:nth-child(even){
+    background-color: white;
+}  */
+tr:hover{
+    background-color: blue;
+}

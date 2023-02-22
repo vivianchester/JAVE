@@ -1,0 +1,18 @@
+ul{
+    list-style-type: none;
+    background-color: yellowgreen;
+    padding: 3px;
+    overflow: hidden;
+    margin: 0%;
+}
+a,li{
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+li{
+    float: left;
+}
